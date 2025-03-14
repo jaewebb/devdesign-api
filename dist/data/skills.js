@@ -8,6 +8,12 @@ exports.default = [
         typeId: 1,
     },
     {
+        id: 26,
+        name: 'React',
+        link: 'https://jaewebbdevdesignreact.vercel.app/',
+        typeId: 1,
+    },
+    {
         id: 2,
         name: 'TypeScript',
         link: '',
@@ -149,12 +155,6 @@ exports.default = [
         id: 25,
         name: 'Procreate',
         link: '',
-        typeId: 2,
-    },
-    {
-        id: 26,
-        name: 'React',
-        link: 'https://jaewebbdevdesignreact.vercel.app/',
         typeId: 2,
     },
     {
