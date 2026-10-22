@@ -1,7 +1,7 @@
 export default {
   avatar: {
     alt: 'Photo of Jae Webb',
-    url: 'images/avatar.png',
+    url: 'avatar.png',
   },
   description: [
     "I'm a software developer with over a decade of experience building modern, user-focused web applications. I specialize in front-end development, with expertise in React, Vue.js, TypeScript, and JavaScript, and a passion for creating polished, accessible, and intuitive digital experiences.",
