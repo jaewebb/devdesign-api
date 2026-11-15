@@ -6,6 +6,13 @@ export default [
     name: 'GitHub',
   },
   {
+    id: 9,
+    description:
+      'A project to showcase both front and backend skills, a WIP and not deployed yet.',
+    link: 'https://github.com/jaewebb/vending-machine-company',
+    name: 'A Vending Machine Company web app',
+  },
+  {
     id: 2,
     description: 'A profile in the style of D&D',
     link: 'https://jae-webb-character-sheet.vercel.app/',
